@@ -1,5 +1,14 @@
 # Cadence — Timeslot Booking
 
+<!-- hanzo-badges -->
+<p align="left">
+  <a href="https://platform.hanzo.ai/new?repo=https%3A%2F%2Fgithub.com%2Fhanzo-apps%2Fbooking&template=booking"><img src="https://gallery.hanzo.ai/deploy.svg" alt="Deploy to Hanzo" height="32" /></a>
+  <a href="https://hanzo.ai/chat?template=booking"><img src="https://gallery.hanzo.ai/badges/edit-in-hanzo.svg" alt="Edit in Hanzo.ai" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/templates/booking"><img src="https://gallery.hanzo.ai/badges/live-preview.svg" alt="Live Preview" height="32" /></a>
+  <a href="https://gallery.hanzo.ai/llms/booking/LLM.md"><img src="https://gallery.hanzo.ai/badges/llm-md.svg" alt="LLM.md Playbook" height="32" /></a>
+</p>
+<!-- /hanzo-badges -->
+
 A calm way to publish the windows you are free and let clients claim one. A real,
 buildable app on the Hanzo stack — fork it on [hanzo.app](https://hanzo.app) and
 deploy live on Hanzo Cloud.
